@@ -1,0 +1,14 @@
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\bin\Debug\net10.0\SOFTEST_INTRO_Calculator.exe
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\bin\Debug\net10.0\SOFTEST_INTRO_Calculator.deps.json
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\bin\Debug\net10.0\SOFTEST_INTRO_Calculator.runtimeconfig.json
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\bin\Debug\net10.0\SOFTEST_INTRO_Calculator.dll
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\bin\Debug\net10.0\SOFTEST_INTRO_Calculator.pdb
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\obj\Debug\net10.0\SOFTEST_INTRO_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\obj\Debug\net10.0\SOFTEST_INTRO_Calculator.AssemblyInfoInputs.cache
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\obj\Debug\net10.0\SOFTEST_INTRO_Calculator.AssemblyInfo.cs
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\obj\Debug\net10.0\SOFTEST_INTRO_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\obj\Debug\net10.0\SOFTEST_INTRO_Calculator.dll
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\obj\Debug\net10.0\refint\SOFTEST_INTRO_Calculator.dll
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\obj\Debug\net10.0\SOFTEST_INTRO_Calculator.pdb
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\obj\Debug\net10.0\SOFTEST_INTRO_Calculator.genruntimeconfig.cache
+C:\Users\Shamik\Desktop\ICT3112-Lab1\SOFTEST_INTRO_Labs\SOFTEST_INTRO_Calculator\obj\Debug\net10.0\ref\SOFTEST_INTRO_Calculator.dll
