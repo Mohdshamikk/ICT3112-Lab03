@@ -161,6 +161,31 @@ public class Calculator
         }
     }
 
+    // Lab 3 Part II. Selects one number from a file and returns twice its
+    // magnitude. The caller now supplies the IFileReader (Dependency
+    // Injection via a method parameter), so a test can substitute a
+    // controlled test double instead of the real file system.
+    public double GenMagicNum(
+        int choice, string path, IFileReader fileReader)
+    {
+        ArgumentNullException.ThrowIfNull(fileReader);
+
+        if (choice < 0)
+        {
+            throw new ArgumentOutOfRangeException(nameof(choice));
+        }
+
+        string[] magicStrings = fileReader.Read(path);
+
+        if (choice >= magicStrings.Length)
+        {
+            throw new ArgumentOutOfRangeException(nameof(choice));
+        }
+
+        double magicNumber = double.Parse(magicStrings[choice]);
+        return 2 * Math.Abs(magicNumber);
+    }
+
     // Section 7 extension. Valid inputs satisfy 0 <= r <= n <= 20.
 
     // Permutations: P(n, r) = n! / (n - r)!
